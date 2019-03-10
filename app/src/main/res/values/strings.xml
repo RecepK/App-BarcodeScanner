@@ -1,0 +1,7 @@
+<resources>
+    <!--<string name="app_name">Barcode Scanner</string>-->
+    <string name="app_name">SR Barcode Okuyucu</string>
+    <string name="exit">Çıkış</string>
+    <string name="play">Market</string>
+    <string name="rate">Puanla</string>
+</resources>
