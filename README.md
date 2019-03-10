@@ -1,4 +1,4 @@
-# App-Barcodescanner
+# Barcode Scanner
 
 This repository contains a sample app that implements MVP architecture.
 
