@@ -45,6 +45,7 @@ class MainPresenter(
 
         val cameraSource = CameraSource
             .Builder(activity, barcodeDetector)
+            .setAutoFocusEnabled(true)
             .build()
 
         activity.surfaceView.holder.addCallback(object : SurfaceHolder.Callback {
